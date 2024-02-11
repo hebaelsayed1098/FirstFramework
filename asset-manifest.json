@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FirstFramework/static/css/main.5ba98594.css",
+    "main.js": "/FirstFramework/static/js/main.0c143bc7.js",
+    "static/js/592.7610490d.chunk.js": "/FirstFramework/static/js/592.7610490d.chunk.js",
+    "static/media/poert1.png": "/FirstFramework/static/media/poert1.4417330275f78faa31c3.png",
+    "static/media/port3.png": "/FirstFramework/static/media/port3.494a4a914b5471b41f3e.png",
+    "static/media/port2.png": "/FirstFramework/static/media/port2.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/FirstFramework/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "index.html": "/FirstFramework/index.html",
+    "main.5ba98594.css.map": "/FirstFramework/static/css/main.5ba98594.css.map",
+    "main.0c143bc7.js.map": "/FirstFramework/static/js/main.0c143bc7.js.map",
+    "592.7610490d.chunk.js.map": "/FirstFramework/static/js/592.7610490d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ba98594.css",
+    "static/js/main.0c143bc7.js"
+  ]
+}
