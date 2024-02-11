@@ -1,0 +1,11 @@
+
+body {
+    margin: 0; /* Remove default margin for body */
+    padding: 0; /* Remove default padding for body */
+    background-color: #1abc9c; /* Set your desired background color here */
+  }
+  .line{
+    border-top: 2px solid tomato; /* Change color and thickness as needed */
+  }
+
+  
